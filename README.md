@@ -1,4 +1,6 @@
 # Chat App
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fakmadhwa%2FChatapp.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fakmadhwa%2FChatapp?ref=badge_shield)
+
 
 A Real Time Application chat using Socket.io.
 
@@ -48,3 +50,7 @@ https://github.com/akmadhwa/Chatapp/archive/master.zip
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fakmadhwa%2FChatapp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fakmadhwa%2FChatapp?ref=badge_large)
